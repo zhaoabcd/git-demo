@@ -3,3 +3,4 @@ iiiiiiiiii 22222
 master`
 zhao
 ssh test
+ssh push test
